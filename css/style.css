@@ -28,7 +28,7 @@ h1, .h1, h2, .h2, h3, .h3 {
   line-height: 50px;
   background: url(../img/logo.png) right 42px no-repeat;
   -webkit-transition: 0.5s;
-  -moz-transition: 0.5s;
+  -moz-transition: 1s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
@@ -1156,7 +1156,7 @@ td.beauty-hover {
   margin-left: 0;
 }
 .toggle-switch input:checked + .toggle-switch-inner + .toggle-switch-switch {
-  right: 0px; 
+  right: 0px;
 }
 .toggle-switch-danger input:checked + .toggle-switch-inner + .toggle-switch-switch {
   border:2px solid #D15E5E;
@@ -1910,9 +1910,9 @@ td.beauty-hover {
 }
 .btn + .dropdown-menu {
   margin-top: -10px;
-  background: rgba(0, 0, 0, 0.7) !important; padding: 0; border: 0; 
-  right: 0; 
-  left: auto; 
+  background: rgba(0, 0, 0, 0.7) !important; padding: 0; border: 0;
+  right: 0;
+  left: auto;
   min-width: 100%;
 }
 .btn + .dropdown-menu > li > a {
