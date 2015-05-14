@@ -16,7 +16,11 @@ img { height: 150px; background-color: #ddd }
 img[class] { width: 150px }
 .object-fit_cover {
   object-fit: cover
-  transform: rotate(-90deg); 
+  -webkit-transform: rotate(-90deg);
+  -moz-transform: rotate(-90deg);
+  -o-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  transform: rotate(-90deg);
   }
 
 
