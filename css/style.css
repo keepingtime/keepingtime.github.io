@@ -1,14 +1,14 @@
 .photo {
 
     width:420px;
-    object-position: center;
+
     -webkit-transform: rotate(-90deg);
     -moz-transform: rotate(-90deg);
     -o-transform: rotate(-90deg);
     -ms-transform: rotate(-90deg);
     transform: rotate(-90deg);
     -webkit-clip-path: inset(0px 60px 0px 80px);
-
+    object-position: center;
     border:0
 }
 
