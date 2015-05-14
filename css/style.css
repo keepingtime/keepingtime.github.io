@@ -9,6 +9,12 @@
   -webkit-clip-path: inset(0px 60px 0px 80px);
 }
 
+.rotate90.center-cropped {
+  object-fit: none; /* Do not scale the image */
+  object-position: center; /* Center the image within the element */
+  height: 100px;
+  width: 100px;
+}
 body {
   color: #525252;
   background: #252525 url(../img/devoops_pattern_b10.png) 0 0 repeat;
