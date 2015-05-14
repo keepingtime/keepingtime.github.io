@@ -12,8 +12,8 @@
     border:0
 }
 
-img { height: 150px; background-color: #ddd }
-img[class] { width: 150px }
+/*img { height: 150px; background-color: #ddd }*/
+img[class] { width: 250px }
 .object-fit_cover {
   object-fit: cover
   -webkit-transform: rotate(-90deg);
