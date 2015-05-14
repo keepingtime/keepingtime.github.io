@@ -183,7 +183,7 @@ a.show-sidebar:hover {
   margin-left: 800px;
 }
 #search > input {
-  width: 300%;
+  width: 80%;
   background: #dfdfdf;
   border: 1px solid #C7C7C7;
   text-shadow:0 1px 1px #EEE;
