@@ -12,6 +12,11 @@
     border:0
 }
 
+img { height: 150px; background-color: #ddd }
+img[class] { width: 150px }
+.object-fit_cover { object-fit: cover }
+
+
 body {
   color: #525252;
   background: #252525 url(../img/devoops_pattern_b10.png) 0 0 repeat;
