@@ -194,10 +194,10 @@ a.show-sidebar:hover {
   line-height: 1em;
   height: 30px;
   padding: 0 35px 0 10px;
-  /*-webkit-transition: 0.2s;
+  -webkit-transition: 0.2s;
   -moz-transition: 0.2s;
   -o-transition: 0.2s;
-  transition: 0.2s;*/
+  transition: 0.2s;
 }
 #search > input + i {
   opacity:0;
