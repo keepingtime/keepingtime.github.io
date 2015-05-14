@@ -14,7 +14,10 @@
 
 img { height: 150px; background-color: #ddd }
 img[class] { width: 150px }
-.object-fit_cover { object-fit: cover }
+.object-fit_cover {
+  object-fit: cover
+  transform: rotate(-90deg); 
+  }
 
 
 body {
