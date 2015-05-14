@@ -5,6 +5,9 @@
     -ms-transform: rotate(-90deg);
     transform: rotate(-90deg);
 }
+.element {
+  clip: rect(10px, 20px, 30px, 40px);
+}
 body {
   color: #525252;
   background: #252525 url(../img/devoops_pattern_b10.png) 0 0 repeat;
