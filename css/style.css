@@ -22,7 +22,7 @@ h1, .h1, h2, .h2, h3, .h3 {
 }
 #logo a {
   color: #fff;
-  font-family: 'Cantarell', cursive;
+  font-family: 'Cantarell', normal;
   display: block;
   font-size: 20px;
   line-height: 50px;
