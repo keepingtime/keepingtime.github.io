@@ -1,6 +1,7 @@
 .photo {
-    object-position: center;
+
     width:420px;
+    object-position: center;
     -webkit-transform: rotate(-90deg);
     -moz-transform: rotate(-90deg);
     -o-transform: rotate(-90deg);
