@@ -1,20 +1,16 @@
-.rotate90 {
+.photo {
+    object-position: center;
     -webkit-transform: rotate(-90deg);
     -moz-transform: rotate(-90deg);
     -o-transform: rotate(-90deg);
     -ms-transform: rotate(-90deg);
     transform: rotate(-90deg);
-}
-.rotate90.element {
-  -webkit-clip-path: inset(0px 60px 0px 80px);
+    -webkit-clip-path: inset(0px 60px 0px 80px);
+    width:420px;
+    height:385px;
+    border:0
 }
 
-.center-cropped {
-  object-fit: none; /* Do not scale the image */
-  object-position: center; /* Center the image within the element */
-  height: 100px;
-  width: 100px;
-}
 body {
   color: #525252;
   background: #252525 url(../img/devoops_pattern_b10.png) 0 0 repeat;
