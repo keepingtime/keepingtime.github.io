@@ -26,7 +26,8 @@ img[class] { width: 250px }
 
 body {
   color: #525252;
-  /*background: #252525 url(../img/devoops_pattern_b10.png) 0 0 repeat;*/
+  background: #252525;
+  /*url(../img/devoops_pattern_b10.png) 0 0 repeat;*/*/
 }
 .body-expanded, .modal-open {
   overflow-y:hidden;
