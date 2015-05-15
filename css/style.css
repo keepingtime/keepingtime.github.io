@@ -629,6 +629,7 @@ ul.DTTT_dropdown.dropdown-menu > li:hover > a {
   line-height: 10px;
   background: #525252;
   background: #E00000 url(../img/devoops_pattern_b10.png) 0 0 repeat;
+  margin-bottom: 20px;
 }
 .breadcrumb {
   padding: 0 15px;
