@@ -1,11 +1,11 @@
 .watch-picture {
-  background-image: url('http://content.rolex.com/is/image/Rolex/explorer2_0006_840x77013350130311517FDZ?wid=840&hei=770&qlt=85')
+  background-image: url('http://content.rolex.com/is/image/Rolex/explorer2_0006_840x77013350130311517FDZ?wid=840&hei=770&qlt=85');
   height: 200px;
-    width: 200px;
-    background-size: contain;
-    background-position: center;
-    margin: auto;
-    transform: rotate(-90deg);
+  width: 200px;
+  background-size: contain;
+  background-position: center;
+  margin: auto;
+  transform: rotate(-90deg);
 }
 .watch-picture-container{
   width:100%;
