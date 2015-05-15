@@ -1,15 +1,6 @@
-.photo {
-
-    width:420px;
-
-    /*-webkit-transform: rotate(-90deg);
-    -moz-transform: rotate(-90deg);
-    -o-transform: rotate(-90deg);
-    -ms-transform: rotate(-90deg);
-    transform: rotate(-90deg);*/
-    -webkit-clip-path: inset(0px 60px 0px 80px);
-    object-position: center;
-    border:0
+.watch-picture {
+  background-image: url('http://content.rolex.com/is/image/Rolex/explorer2_0006_840x77013350130311517FDZ?wid=840&hei=770&qlt=85')
+  
 }
 
 /*img { height: 150px; background-color: #ddd }*/
